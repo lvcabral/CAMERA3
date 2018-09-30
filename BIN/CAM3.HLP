@@ -1,0 +1,101 @@
+ Ajuda ao Usu rio þþþþþþþþþþþ [] Movimentam - [Esc] Sai
+{000}
+ฺฤฤฤฤฤฤฤฤฤฟ
+ณ ฺฤฤฤฤฤฟ ณ ฺฤฤฤฤฤฤฟ  ฺฤฤฟ ฺฤฤฟ ฺฤฤฤฤฤฤฤฟ ฺฤฟ    ฺฤฤฤฤฤฤฟ 
+ณ ณ     ภฤู ภฤฤฤฤฟ ณ  ณ  ภฤู  ณ ณ ฺฤฤฤฟ ณ ณ ภฤฤฟ ภฤฤฤฤฟ ณ 
+ณ ณ         ฺฤฤฤฤู ณ  ณ ฺฟ ฺฟ ณ ณ ภฤฤฤู ณ ณ ฺฤฤู ฺฤฤฤฤู ณ 
+ณ ณ     ฺฤฟ ณ ฺฤฤฟ ณ  ณ ณภฤูณ ณ ณ ฺฤฤฤฤฤู ณ ณ    ณ ฺฤฤฟ ณ 
+ณ ภฤฤฤฤฤู ณ ณ ภฤฤู ภฟ ณ ณ   ณ ณ ณ ภฤฤฤฤฤฟ ณ ณ    ณ ภฤฤู ภฟ
+ภฤฤฤฤฤฤฤฤฤู ภฤฤฤฤฤฤฤู ภฤู   ภฤู ภฤฤฤฤฤฤฤู ภฤู    ภฤฤฤฤฤฤฤู
+                      ษอออออออป
+                      ศออออป  บ
+                      ษออออผ  บ        
+                      ศออออป  บ        
+                      ษออออผ  บ        
+                      ศอออออออผ        
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+        SISTEMA DE CONTROLE DE VIDEO LOCADORAS  
+                VERSAO 1.1 þ 1990-1992
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+{142}
+ ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ Parmetros do Sistema ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+     Os parmetros do sistema so os dados necess rios ao
+ sistema para melhor se ajustar … configurao da locado-
+ ra englobando tambm as diversas mensagens ao usu rio.
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+ * Nง de vias do comprovante :
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Configura o nฃmero de cขpias por comprovante que sero 
+ impressas no ato das saกdas de fitas.
+
+ * Nง de etiquetas por linha :
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Configura o nฃmero de colunas de etiquetas que o siste- 
+ ma dever  considerar. Este nฃmero vai de 1 a 4 etiquetas.
+
+ * Mensagem do Comprovante ..:
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Registra a mensagem a ser impressa em todos os  compro-
+ vantes.
+       
+ * Mensagens dos Relatขrios..:
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Registra as 2 (duas) mensagens que devero ser  impres- 
+ sas no cabealho dos relatขrios do sistema.
+
+ * Mensagem de Tela .........:
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Registra a mensagem a ser mostrada na parte superior da
+ tela, de preferncia deve conter o nome da locadora.
+
+ * Nง de Dependentes por Sขcio:
+ ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+  Configura o nฃmero de dependentes que a Locadora permi-
+ te que cada sขcio registre.          
+  Este campo sข aceita valores entre 1 e 4.
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+{210}
+ ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ  TECLAS DE EDI€O  ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
+ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+ [Ctrl-Y] - Apaga o campo a partir da posio do cursor
+ [Ctrl-T] - Apaga a palavra … direita do cursor  
+ [Ctrl-U] - Recupera o valor anterior do campo
+ [Del]    - Apaga um caractere … direita do cursor
+ [BckSpc] - Apaga um caractere … esquerda do cursor
+ [Esc]    - Abandona a edio 
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+ ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ  TECLAS DE MOVIMENTA€O  ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
+ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+ [Home]   - Move o cursor para o inกcio do campo
+ [End]    - Move o cursor para o ฃltimo caractere do campo
+ [^Home]  - Move o cursor para o 1ง campo da tela
+ [^End]   - Move o cursor para o ฃltimo campo da tela
+ [Seta-] - Move o cursor para o campo anterior
+ [Seta-] - Move o cursor para o prขximo campo
+ [Seta-] - Move o cursor um caractere … direita
+ [Seta-] - Move o cursor um caractere … esquerda
+ [^-]    - Move o cursor para o inกcio da palavra atual
+ [^-]    - Move o cursor para o inกcio da prขxima palavra
+ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+ Obs. O "^" significa: Tecle [Ctrl] em conjunto a ...
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+{900}
+  ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ    JANELA DE PROCURA    ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑ
+ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+
+ þ Procura, Fitas ou Sขcios, nos Arquivos do Sistema
+
+ þ Para Movimentar use as Setas 
+
+ þ Para Selecionar Tecle [ENTER] 
+
+ þ Para Abandonar Tecle [ESC] 
+
+ þ Para Mudar a Organizao tecle [F6]
+
+ þ As Letras Movimentam em ordem Alfabtica.
+
+ 
+                   * * * * * * * * *
