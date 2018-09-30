@@ -16,7 +16,7 @@ This repository has the system source code under the **PRG** folder and under th
 
 To edit the source code, I recommend using NotePad++ selecting the Encoding **Western European->OEM 860 - Portuguese**.
 
-The **BIN** folder contains the compiled system with sample databases, I commented some rudimentary "copy protection" code before building it, so it runs on DOSBOX without any special configuration.
+The **BIN** folder contains the compiled system with sample databases, I commented some rudimentary "copy protection" code before building it, so it runs on DOSBOX without any special configuration. The default passwords are **MASTER** and **ACESSO**.
 
 You can also see some screen shots and system reports under the **Images** folder.
 
