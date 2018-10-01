@@ -26,4 +26,8 @@ You can also see some screen shots and system reports under the **Images** folde
 - My podcast is [PODebug Podcast](http://podebug.com)
 - Check my other [GitHub repositories ](https://github.com/lvcabral)
 
+## License
+
 Copyright (C) Marcelo Lv Cabral. All rights reserved.
+
+Licensed under [MIT](https://github.com/lvcabral/CAMERA3/blob/master/LICENSE.TXT) License.
