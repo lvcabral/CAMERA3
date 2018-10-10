@@ -22,7 +22,7 @@ You can also see some screen shots and system reports under the **Images** folde
 
 ## The Author
 - My website is [https://lvcabral.com](https://lvcabral.com)
-- My twitter is [@lvcabral](https://twitter.com/twitter)
+- My twitter is [@lvcabral](https://twitter.com/lvcabral)
 - My podcast is [PODebug Podcast](http://podebug.com)
 - Check my other [GitHub repositories ](https://github.com/lvcabral)
 
